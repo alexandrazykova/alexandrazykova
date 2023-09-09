@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alexandrazykova
 - 👀 I’m interested in tech and anime
 - 🌱 I’m currently learning to code! Check out my work [here](https://alexandrazykova.github.io/professional-portfolio/)
-- 💞️ I’m looking to collaborate with anyone who is patient with people who are still learning but pick up fast!
 - 📫 How to reach me: alexandrazykova1@gmail.com
 
 <!---
