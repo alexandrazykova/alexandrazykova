@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrazykova
-- 🌱 I’m currently learning to code! Check out my work [here](https://alexandrazykova.github.io/professional-portfolio/)
+- 🌱 University of Toronto Web Development graduate. Check out my work [here](https://alexandrazykova.github.io/professional-portfolio/)
 - 📫 How to reach me: alexandrazykova1@gmail.com
 
 <!---
